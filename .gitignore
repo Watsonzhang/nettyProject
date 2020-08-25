@@ -1,0 +1,36 @@
+*.class
+*.iml
+
+/.idea/
+*/target/
+/logs/*
+/inventory-service/log
+/logs/
+/ba/logs/
+/target/
+/inventory-service/src/test/
+
+!.mvn/wrapper/maven-wrapper.jar
+mvnw*
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea**/*
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
+/log/
+inventory-service/logs/inventory-service.log
+
+*.log
